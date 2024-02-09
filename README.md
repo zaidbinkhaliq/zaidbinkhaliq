@@ -1,7 +1,7 @@
-- 👋 Hi, I’m zaidbinkhaliq.
-- 👀 I’m interested in web developing and game developing.
-- 🌱 I’m currently learning coding.
-- 💞️ I’m looking to collaborate on web developing.
+- 👋 Hi, I’m Zaid Bin Khaliq.
+- 👀 I’m interested in Website Development & Data Science.
+- 🌱 I’m currently learning Python and ML.
+- 💞️ I’m looking to collaborate on web development.
 - 📫 You can reach me through zaidbinkhaliq@gmail.com
 
 <!---
